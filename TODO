@@ -1,0 +1,15 @@
+DevIL-Ruby TODO
+===============
+
+DevIL::IL::get_data
+DevIL::IL::get_palette
+DevIL::IL::is_valid_f
+DevIL::IL::load_f
+DevIL::IL::save_f
+DevIL::IL::set_memory
+DevIL::IL::set_read
+DevIL::IL::set_write
+DevIL::IL::load_data_f
+DevIL::ILU::get_image_info
+DevIL::ILU::region_fv
+DevIL::ILU::region_iv
